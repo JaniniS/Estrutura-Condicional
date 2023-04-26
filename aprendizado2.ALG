@@ -1,0 +1,10 @@
+Algoritmo "terreno"
+
+
+
+Var
+
+ 
+
+
+Fimalgoritmo
